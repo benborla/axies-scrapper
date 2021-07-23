@@ -2,7 +2,7 @@
   "name": "axies",
   "version": "1.0.0",
   "description": "",
-  "main": "db.js",
+  "main": "scrap.js",
   "dependencies": {
     "got": "^11.8.2",
     "node-fetch": "^2.6.1",
