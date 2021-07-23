@@ -1,0 +1,2010 @@
+{
+    "data": {
+        "axies": {
+            "total": 2717,
+            "results": [
+                {
+                    "id": "2049923",
+                    "name": "Axie #2049923",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-bug-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "157295957175925925",
+                        "currentPriceUSD": "310.92",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2012714",
+                    "name": "Axie #2012714",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "164400000000000000",
+                        "currentPriceUSD": "324.96",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2010777",
+                    "name": "Axie #2010777",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "164500000000000000",
+                        "currentPriceUSD": "325.16",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2012734",
+                    "name": "Axie #2012734",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "165000000000000000",
+                        "currentPriceUSD": "326.15",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "1940313",
+                    "name": "July 16 ( 9:51PM )",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "180000000000000000",
+                        "currentPriceUSD": "355.80",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "1906356",
+                    "name": "Axie #1906356",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "180000000000000000",
+                        "currentPriceUSD": "355.80",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "1904788",
+                    "name": "Pure Breed 4 of 6",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "180000000000000000",
+                        "currentPriceUSD": "355.80",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068832",
+                    "name": "Axie #2068832",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "181046701388888888",
+                        "currentPriceUSD": "357.87",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068829",
+                    "name": "Axie #2068829",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-reptile-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "181124201388888888",
+                        "currentPriceUSD": "358.02",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068827",
+                    "name": "Axie #2068827",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "181124201388888888",
+                        "currentPriceUSD": "358.02",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068766",
+                    "name": "Axie #2068766",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "181124201388888888",
+                        "currentPriceUSD": "358.02",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068762",
+                    "name": "Axie #2068762",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-reptile-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "181150034722222222",
+                        "currentPriceUSD": "358.07",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068760",
+                    "name": "Axie #2068760",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "181150034722222222",
+                        "currentPriceUSD": "358.07",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2056691",
+                    "name": "Both High DPS Parents",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "185113194444444444",
+                        "currentPriceUSD": "365.91",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2060968",
+                    "name": "Axie #2060968",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "186900000000000000",
+                        "currentPriceUSD": "369.44",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "1993260",
+                    "name": "Axie #1993260",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-bug-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "187500000000000000",
+                        "currentPriceUSD": "370.62",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2063239",
+                    "name": "Axie #2063239",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "188000000000000000",
+                        "currentPriceUSD": "371.61",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2011872",
+                    "name": "META TANK 60% PURE",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "189000000000000000",
+                        "currentPriceUSD": "373.59",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "1993602",
+                    "name": "Axie #1993602",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "189000000000000000",
+                        "currentPriceUSD": "373.59",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "1998202",
+                    "name": "Axie #1998202",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "189068634259259259",
+                        "currentPriceUSD": "373.72",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2056660",
+                    "name": "Both High DPS Parents",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "189589120370370370",
+                        "currentPriceUSD": "374.75",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "1826890",
+                    "name": "Axie #1826890",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "190000000000000000",
+                        "currentPriceUSD": "375.56",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068973",
+                    "name": "Axie #2068973",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "191206481481481481",
+                        "currentPriceUSD": "377.95",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "1915608",
+                    "name": "Axie #1915608",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "191654722222222222",
+                        "currentPriceUSD": "378.84",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068789",
+                    "name": "Axie #2068789",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-bug-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "191900000000000000",
+                        "currentPriceUSD": "379.32",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064823",
+                    "name": "Axie #2064823",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-bug-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "192000000000000000",
+                        "currentPriceUSD": "379.52",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068516",
+                    "name": "Axie #2068516",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "192000000000000000",
+                        "currentPriceUSD": "379.52",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064715",
+                    "name": "Axie #2064715",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "192000000000000000",
+                        "currentPriceUSD": "379.52",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068543",
+                    "name": "Axie #2068543",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "192000000000000000",
+                        "currentPriceUSD": "379.52",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068270",
+                    "name": "Axie #2068270",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "192700000000000000",
+                        "currentPriceUSD": "380.90",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2033449",
+                    "name": "Axie #2033449",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "192778703703703703",
+                        "currentPriceUSD": "381.06",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068094",
+                    "name": "Axie #2068094",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "192800000000000000",
+                        "currentPriceUSD": "381.10",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2067525",
+                    "name": "Axie #2067525",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "192900000000000000",
+                        "currentPriceUSD": "381.30",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068555",
+                    "name": "Axie #2068555",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "192900000000000000",
+                        "currentPriceUSD": "381.30",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2067607",
+                    "name": "BESPREN",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bug-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "192900000000000000",
+                        "currentPriceUSD": "381.30",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2030916",
+                    "name": "Axie #2030916",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-reptile-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193000000000000000",
+                        "currentPriceUSD": "381.49",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2035492",
+                    "name": "EGGaMON",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193000000000000000",
+                        "currentPriceUSD": "381.49",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068617",
+                    "name": "Axie #2068617",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193000000000000000",
+                        "currentPriceUSD": "381.49",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2069001",
+                    "name": "Axie #2069001",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193000000000000000",
+                        "currentPriceUSD": "381.49",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068668",
+                    "name": "Axie #2068668",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193000000000000000",
+                        "currentPriceUSD": "381.49",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2058333",
+                    "name": "Axie #2058333",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193055787037037037",
+                        "currentPriceUSD": "381.61",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2053058",
+                    "name": "Axie #2053058",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193055960648148148",
+                        "currentPriceUSD": "381.61",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2058311",
+                    "name": "Axie #2058311",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193057002314814814",
+                        "currentPriceUSD": "381.61",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2058276",
+                    "name": "Axie #2058276",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-reptile-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193057002314814814",
+                        "currentPriceUSD": "381.61",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2058024",
+                    "name": "Axie #2058024",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193060648148148148",
+                        "currentPriceUSD": "381.61",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2057904",
+                    "name": "Axie #2057904",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193061863425925925",
+                        "currentPriceUSD": "381.62",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2057996",
+                    "name": "Axie #2057996",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193061863425925925",
+                        "currentPriceUSD": "381.62",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2057980",
+                    "name": "Axie #2057980",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193061863425925925",
+                        "currentPriceUSD": "381.62",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2057963",
+                    "name": "Axie #2057963",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193063078703703703",
+                        "currentPriceUSD": "381.62",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2059035",
+                    "name": "Axie #2059035",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193071744212962962",
+                        "currentPriceUSD": "381.64",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2058991",
+                    "name": "Axie #2058991",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193071744212962962",
+                        "currentPriceUSD": "381.64",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2051006",
+                    "name": "Axie #2051006",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193089467592592592",
+                        "currentPriceUSD": "381.67",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2060465",
+                    "name": "Axie #2060465",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193135716435185185",
+                        "currentPriceUSD": "381.76",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2060426",
+                    "name": "Axie #2060426",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193135716435185185",
+                        "currentPriceUSD": "381.76",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2060403",
+                    "name": "Axie #2060403",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193135716435185185",
+                        "currentPriceUSD": "381.76",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2060285",
+                    "name": "Axie #2060285",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193138098379629629",
+                        "currentPriceUSD": "381.77",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2060041",
+                    "name": "Axie #2060041",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193141671296296296",
+                        "currentPriceUSD": "381.77",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2060011",
+                    "name": "Axie #2060011",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193141671296296296",
+                        "currentPriceUSD": "381.77",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2059961",
+                    "name": "Axie #2059961",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193142862268518518",
+                        "currentPriceUSD": "381.78",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2059938",
+                    "name": "Axie #2059938",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193142862268518518",
+                        "currentPriceUSD": "381.78",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2059914",
+                    "name": "Axie #2059914",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193142862268518518",
+                        "currentPriceUSD": "381.78",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2059889",
+                    "name": "Axie #2059889",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193144053240740740",
+                        "currentPriceUSD": "381.78",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2061406",
+                    "name": "Axie #2061406",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-bug-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193194074074074074",
+                        "currentPriceUSD": "381.88",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2061390",
+                    "name": "Axie #2061390",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-bug-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193195265046296296",
+                        "currentPriceUSD": "381.88",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2061348",
+                    "name": "Axie #2061348",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193195265046296296",
+                        "currentPriceUSD": "381.88",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2061256",
+                    "name": "Bebe bestia 2",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193196456018518518",
+                        "currentPriceUSD": "381.88",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2061322",
+                    "name": "Axie #2061322",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193196456018518518",
+                        "currentPriceUSD": "381.88",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2065042",
+                    "name": "Axie #2065042",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193320898148148148",
+                        "currentPriceUSD": "382.13",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064855",
+                    "name": "Axie #2064855",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193322040509259259",
+                        "currentPriceUSD": "382.13",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064843",
+                    "name": "Axie #2064843",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193323182870370370",
+                        "currentPriceUSD": "382.13",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064795",
+                    "name": "Axie #2064795",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193324325231481481",
+                        "currentPriceUSD": "382.14",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064772",
+                    "name": "Axie #2064772",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193325467592592592",
+                        "currentPriceUSD": "382.14",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064724",
+                    "name": "Axie #2064724",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193325467592592592",
+                        "currentPriceUSD": "382.14",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064666",
+                    "name": "Axie #2064666",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193326609953703703",
+                        "currentPriceUSD": "382.14",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064644",
+                    "name": "Axie #2064644",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193326609953703703",
+                        "currentPriceUSD": "382.14",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064698",
+                    "name": "Axie #2064698",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193326609953703703",
+                        "currentPriceUSD": "382.14",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064420",
+                    "name": "Axie #2064420",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193327752314814814",
+                        "currentPriceUSD": "382.14",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064401",
+                    "name": "Axie #2064401",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193327752314814814",
+                        "currentPriceUSD": "382.14",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064536",
+                    "name": "Axie #2064536",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193328894675925925",
+                        "currentPriceUSD": "382.15",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064474",
+                    "name": "Axie #2064474",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193328894675925925",
+                        "currentPriceUSD": "382.15",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064492",
+                    "name": "Axie #2064492",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193328894675925925",
+                        "currentPriceUSD": "382.15",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2065676",
+                    "name": "Axie #2065676",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193382439814814814",
+                        "currentPriceUSD": "382.25",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2065665",
+                    "name": "Axie #2065665",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193383495370370370",
+                        "currentPriceUSD": "382.25",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2064558",
+                    "name": "Axie #2064558",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193383495370370370",
+                        "currentPriceUSD": "382.25",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068622",
+                    "name": "Axie #2068622",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193500000000000000",
+                        "currentPriceUSD": "382.48",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2062800",
+                    "name": "Axie #2062800",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193500000000000000",
+                        "currentPriceUSD": "382.48",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068727",
+                    "name": "Axie #2068727",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/aquatic-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193500000000000000",
+                        "currentPriceUSD": "382.48",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068602",
+                    "name": "Axie #2068602",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193500000000000000",
+                        "currentPriceUSD": "382.48",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068391",
+                    "name": "Axie #2068391",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-reptile-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193729745370370370",
+                        "currentPriceUSD": "382.94",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068352",
+                    "name": "Axie #2068352",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-reptile-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193743634259259259",
+                        "currentPriceUSD": "382.96",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2067666",
+                    "name": "Axie #2067666",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "193900000000000000",
+                        "currentPriceUSD": "383.27",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2062859",
+                    "name": "Axie #2062859",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "194000000000000000",
+                        "currentPriceUSD": "383.47",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2066941",
+                    "name": "Axie #2066941",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "194000000000000000",
+                        "currentPriceUSD": "383.47",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068942",
+                    "name": "Treant Protector",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/plant-plant-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "194000000000000000",
+                        "currentPriceUSD": "383.47",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068433",
+                    "name": "Axie #2068433",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "194000000000000000",
+                        "currentPriceUSD": "383.47",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "1741780",
+                    "name": "Good aqua reptile mix sale",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/reptile-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "194000000000000000",
+                        "currentPriceUSD": "383.47",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2003529",
+                    "name": "Axie #2003529",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-aquatic-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "194000000000000000",
+                        "currentPriceUSD": "383.47",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068399",
+                    "name": "Axie #2068399",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "194300000000000000",
+                        "currentPriceUSD": "384.06",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2062978",
+                    "name": "Axie #2062978",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/beast-beast-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "194500000000000000",
+                        "currentPriceUSD": "384.46",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                },
+                {
+                    "id": "2068418",
+                    "name": "Axie #2068418",
+                    "stage": 1,
+                    "class": null,
+                    "breedCount": 0,
+                    "image": "https://storage.googleapis.com/axie-cdn/avatars/egg/bird-bird-egg-full-transparent.png",
+                    "title": null,
+                    "battleInfo": {
+                        "banned": false,
+                        "__typename": "AxieBattleInfo"
+                    },
+                    "auction": {
+                        "currentPrice": "194500000000000000",
+                        "currentPriceUSD": "384.46",
+                        "__typename": "Auction"
+                    },
+                    "parts": [],
+                    "__typename": "Axie"
+                }
+            ],
+            "__typename": "Axies"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "axies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "dependencies": {
+    "got": "^11.8.2",
+    "node-fetch": "^2.6.1",
+    "terminal-image": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

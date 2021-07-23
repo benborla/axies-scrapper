@@ -1,0 +1,5 @@
+node scrap.js Type Purity StartFrom
+
+Sample:
+
+node scrap.js Plant 90 500
